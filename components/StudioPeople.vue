@@ -1,6 +1,5 @@
 <script setup lang="ts">
 import { Mic, MicOff, Menu } from 'lucide-vue-next'
-import DropdownMenu from './ui/dropdown-menu/DropdownMenu.vue';
 </script>
 
 <template>

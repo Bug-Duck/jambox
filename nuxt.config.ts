@@ -7,8 +7,8 @@ export default defineNuxtConfig({
     },
   },
   pages: true,
-  modules: ["shadcn-nuxt", "@nuxtjs/tailwindcss"],
+  modules: ["shadcn-nuxt", "@nuxtjs/tailwindcss", "@nuxtjs/color-mode"],
   shadcn: {
     prefix: '',
-  }
+  },
 })
